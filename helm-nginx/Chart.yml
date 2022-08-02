@@ -1,6 +1,0 @@
-apiVersion: v2
-name: test-container
-description: test-container helm
-type: application
-version: 0.3.7-dev-3-versioned-annotated-deployment-and-cfg-map-remove-subservice
-appVersion: "1.16.0"
