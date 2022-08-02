@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: {{ .Release.Name }} -configMap
-  labels:
-    app: {{ .Values.app.name }}  
-data:
-  username: shlomo
-
